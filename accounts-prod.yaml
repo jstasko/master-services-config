@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to TestBank accounts related prod APIs "
   contactDetails:
-    name: "Prod environment"
+    name: "Prod ENVIRONMENT"
     email: "{cipher}81ed88124409001ffc1c9fde86545098fe5af7ba7c05530f5eec237eb2d5ca5f92b2ac049e733fe4b615230baa1fbf5a"
   onCallSupport:
     - (453) 392-4829
